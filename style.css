@@ -1,0 +1,100 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.carousel-header{
+    font-size: 41px;
+    font-weight: medium;
+}
+.carousel-description{
+    font-size: 18px;
+    font-weight: lighter;
+}
+.btn-style{
+    border-style: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: black;
+    color: white; 
+}
+.carousel-indicators .active{
+    background-color: #FFB229;
+}
+.carousel-indicators li{
+    background-color: lightgray;
+    
+}
+.carousel-banner, #products, #categories{
+    margin-bottom: 100px;
+}
+.product-header{
+    margin-bottom: 46px;
+}
+.product-header a{
+    color:#FF9D00 ;
+    text-decoration: none;
+}
+
+.card-title{
+    font-size: 24px;
+    font-weight: medium;
+}
+.card-body{
+    text-align: center;
+}
+.card-text{
+    font-size: 16px;
+    font-weight: lighter;
+}
+.phone-price{
+    font-size: 24px;
+    font-weight: medium;
+    padding: 5px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+    border-radius: 10px;
+}
+#categories h1{
+   
+
+}
+.image-shadow{
+    box-shadow: 5px 5px 15px lightgray;
+    border-radius: 5px 10px 5px 25px;
+    padding: 30px 25px;
+}
+.image-shadow2{
+    box-shadow: 5px 5px 15px lightgray;
+    border-radius: 10px 5px 25px 5px;
+    padding: 30px 25px;
+}
+.cate h1{
+    text-align: center;
+    /* overflow: hidden; */
+}
+.line{
+    width: 14%;
+    height: 10px;
+    display:block;
+    background-color: #FF9C35;
+    text-align: center;
+    margin: auto; 
+    border-radius: 25px;
+}
+.image-shadow:hover{
+    background-color: #F7EDE1;
+}
+.image-shadow2:hover{
+    background-color: #F7EDE1;
+}
+.footer{
+    background-color: #F8F9FA;
+    text-align: center;
+    padding: 10px 0px;
+}
